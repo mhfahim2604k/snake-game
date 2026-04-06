@@ -130,3 +130,4 @@ int main(int argc, char* argv[])
 
     return 0;
 }
+//g++ task101.cpp -I.\include -L.\lib -lmingw32 -lSDL2main -lSDL2 -o task101.exe
