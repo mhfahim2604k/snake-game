@@ -1,1 +1,1 @@
-g++ main.cpp -o main.exe -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 ; .\main.exe
+g++ task101.cpp -I"C:/Users/mdzak/OneDrive/Desktop/sdl/include" -L"C:/Users/mdzak/OneDrive/Desktop/sdl/lib" -lmingw32 -lSDL2main -lSDL2 -o task101.exe ; ./task101.exe
